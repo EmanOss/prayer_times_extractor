@@ -1,0 +1,6 @@
+icalendar
+dateparser
+datetime
+pathlib
+pytz
+pyperclip
